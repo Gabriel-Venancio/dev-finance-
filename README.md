@@ -32,5 +32,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 This project could be used by anyone! MIT License
 
-### :smiley: Autor
+## Autor
 Feito com ❤️ por Gabriel Venancio 
