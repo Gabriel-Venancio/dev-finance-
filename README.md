@@ -11,16 +11,16 @@
 </h4>
 
 
-### :dart: Objetivo
+# Objetivo
 
 Aplicação de controle financeiro, adicionando descrições com suas entradas e saídas e a aplicação mostra o valor total.
 
-### :blush: Pré-requisitos
+## Pré-requisitos
 
 Para visualizar o site em sua máquina, você só precisa ter um navegador de sua preferência, depois de fazer o Git Clone.
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🛠 Tecnologias
+## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -28,9 +28,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS
 - JavaScript
 
-### 📜 Licença
+## Licença
 
 This project could be used by anyone! MIT License
 
-### :smiley: Autor
+## Autor
 Feito com ❤️ por Gabriel Venancio 
